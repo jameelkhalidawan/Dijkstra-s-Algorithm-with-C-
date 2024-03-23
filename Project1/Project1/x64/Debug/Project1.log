@@ -1,0 +1,11 @@
+﻿  Project1.cpp
+D:\projects\Dijkstra_s Algorithm1\Project1\Project1\LocatorHeap.h(116,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\projects\Dijkstra_s Algorithm1\Project1\Project1\LocatorHeap.h(111,10): message : while compiling class template member function 'Heap<Vertex *>::HeapItem *Heap<Vertex *>::insertElement(Type)'
+          with
+          [
+              Type=Vertex *
+          ]
+D:\projects\Dijkstra_s Algorithm1\Project1\Project1\Graph.h(90,29): message : see the first reference to 'Heap<Vertex *>::insertElement' in 'Graph::shortestPath'
+D:\projects\Dijkstra_s Algorithm1\Project1\Project1\Graph.h(25,28): message : see reference to class template instantiation 'Heap<Vertex *>' being compiled
+D:\projects\Dijkstra_s Algorithm1\Project1\Project1\LocatorHeap.h(118,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> D:\projects\Dijkstra_s Algorithm1\Project1\x64\Debug\Project1.exe
